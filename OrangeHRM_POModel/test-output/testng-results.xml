@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM_Suite" duration-ms="5901" started-at="2024-02-20T18:16:18 IST" finished-at="2024-02-20T18:16:24 IST">
+    <groups>
+    </groups>
+    <test name="Employees Leave Status Test Case" duration-ms="3916" started-at="2024-02-20T18:16:18 IST" finished-at="2024-02-20T18:16:22 IST">
+      <class name="test_Cases.Dashboard_Page">
+        <test-method status="PASS" signature="VerifyEmployeesLeaveRequest()[pri:0, instance:test_Cases.Dashboard_Page@180bc464]" name="VerifyEmployeesLeaveRequest" duration-ms="3880" started-at="2024-02-20T18:16:18 IST" finished-at="2024-02-20T18:16:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeesLeaveRequest -->
+      </class> <!-- test_Cases.Dashboard_Page -->
+    </test> <!-- Employees Leave Status Test Case -->
+    <test name="Admin User Role Test Case" duration-ms="1960" started-at="2024-02-20T18:16:22 IST" finished-at="2024-02-20T18:16:24 IST">
+      <class name="test_Cases.Admin_Page">
+        <test-method status="PASS" signature="Open_Brow()[pri:0, instance:test_Cases.Admin_Page@5a61f5df]" name="Open_Brow" is-config="true" duration-ms="7305" started-at="2024-02-20T18:16:11 IST" finished-at="2024-02-20T18:16:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Brow -->
+        <test-method status="PASS" signature="VerifyResults()[pri:0, instance:test_Cases.Admin_Page@5a61f5df]" name="VerifyResults" duration-ms="1959" started-at="2024-02-20T18:16:22 IST" finished-at="2024-02-20T18:16:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResults -->
+        <test-method status="PASS" signature="Close_Brow()[pri:0, instance:test_Cases.Admin_Page@5a61f5df]" name="Close_Brow" is-config="true" duration-ms="757" started-at="2024-02-20T18:16:24 IST" finished-at="2024-02-20T18:16:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Brow -->
+      </class> <!-- test_Cases.Admin_Page -->
+    </test> <!-- Admin User Role Test Case -->
+  </suite> <!-- OrangeHRM_Suite -->
+</testng-results>

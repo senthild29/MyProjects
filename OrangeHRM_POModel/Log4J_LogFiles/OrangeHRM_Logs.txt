@@ -1,0 +1,128 @@
+16-02-2024 19:37:12 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+16-02-2024 19:37:20 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+16-02-2024 19:37:21 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+16-02-2024 19:37:21 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+16-02-2024 19:37:24 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result
+16-02-2024 19:37:24 INFO  test_Cases.Admin_Page 21 : Navigating to Admin Page
+16-02-2024 19:37:25 INFO  test_Cases.Admin_Page 24 : Searching User
+16-02-2024 19:37:26 INFO  test_Cases.Admin_Page 27 : Clicking on search button
+16-02-2024 19:37:26 INFO  test_Cases.Admin_Page 34 : Getting User Role and Status
+16-02-2024 19:37:37 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+
+16-02-2024 19:42:45 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+16-02-2024 19:42:50 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+16-02-2024 19:42:51 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+16-02-2024 19:42:52 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+16-02-2024 19:42:54 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+16-02-2024 19:42:54 INFO  test_Cases.Admin_Page 21 : Navigating to Admin Page
+16-02-2024 19:42:55 INFO  test_Cases.Admin_Page 24 : Searching User
+16-02-2024 19:42:55 INFO  test_Cases.Admin_Page 27 : Clicking on search button
+16-02-2024 19:42:56 INFO  test_Cases.Admin_Page 34 : Getting User Role and Status
+16-02-2024 19:43:06 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+
+16-02-2024 19:44:23 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+16-02-2024 19:44:29 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+16-02-2024 19:44:29 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+16-02-2024 19:44:31 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+16-02-2024 19:44:32 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+16-02-2024 19:44:32 INFO  test_Cases.Admin_Page 21 : Navigating to Admin Page
+16-02-2024 19:44:33 INFO  test_Cases.Admin_Page 24 : Searching User
+16-02-2024 19:44:34 INFO  test_Cases.Admin_Page 27 : Clicking on search button
+16-02-2024 19:44:34 INFO  test_Cases.Admin_Page 34 : Getting User Role and Status
+16-02-2024 19:44:44 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+
+16-02-2024 19:51:18 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+16-02-2024 19:51:24 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+16-02-2024 19:51:25 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+16-02-2024 19:51:25 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+16-02-2024 19:51:28 INFO  test_Cases.Admin_Page 21 : Navigating to Admin Page
+16-02-2024 19:51:29 INFO  test_Cases.Admin_Page 24 : Searching User
+16-02-2024 19:51:30 INFO  test_Cases.Admin_Page 27 : Clicking on search button
+16-02-2024 19:51:30 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+16-02-2024 19:54:10 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+16-02-2024 19:54:18 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+16-02-2024 19:54:19 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+16-02-2024 19:54:19 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+16-02-2024 19:54:22 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+16-02-2024 19:54:22 INFO  test_Cases.Admin_Page 21 : Navigating to Admin Page
+16-02-2024 19:54:22 INFO  test_Cases.Admin_Page 24 : Searching User
+16-02-2024 19:54:23 INFO  test_Cases.Admin_Page 27 : Clicking on search button
+16-02-2024 19:54:24 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+17-02-2024 12:19:04 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+17-02-2024 12:19:12 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+17-02-2024 12:19:13 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+17-02-2024 12:19:14 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+17-02-2024 12:19:16 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+17-02-2024 12:19:16 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+17-02-2024 12:19:17 INFO  test_Cases.Admin_Page 25 : Searching User
+17-02-2024 12:19:17 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+17-02-2024 12:19:17 INFO  test_Cases.Admin_Page 35 : Getting User Role and Status
+17-02-2024 12:19:17 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+
+17-02-2024 12:22:38 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+17-02-2024 12:22:43 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+17-02-2024 12:22:44 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+17-02-2024 12:22:45 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+17-02-2024 12:22:47 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+17-02-2024 12:22:47 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+17-02-2024 12:22:48 INFO  test_Cases.Admin_Page 25 : Searching User
+17-02-2024 12:22:48 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+17-02-2024 12:22:49 INFO  test_Cases.Admin_Page 35 : Getting User Status
+17-02-2024 12:22:49 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+17-02-2024 12:22:49 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+20-02-2024 17:58:53 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+
+20-02-2024 17:59:03 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+20-02-2024 17:59:04 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+20-02-2024 17:59:05 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+20-02-2024 17:59:07 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+20-02-2024 17:59:07 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+20-02-2024 17:59:08 INFO  test_Cases.Admin_Page 25 : Searching User
+20-02-2024 17:59:09 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+20-02-2024 17:59:09 INFO  test_Cases.Admin_Page 35 : Getting User Status
+20-02-2024 17:59:09 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+20-02-2024 17:59:09 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+20-02-2024 18:06:41 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+20-02-2024 18:06:51 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+20-02-2024 18:06:52 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+20-02-2024 18:06:53 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+20-02-2024 18:06:55 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+20-02-2024 18:06:55 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+20-02-2024 18:06:56 INFO  test_Cases.Admin_Page 25 : Searching User
+20-02-2024 18:06:56 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+20-02-2024 18:06:56 INFO  test_Cases.Admin_Page 35 : Getting User Status
+20-02-2024 18:06:57 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+20-02-2024 18:06:57 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+20-02-2024 18:11:50 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+20-02-2024 18:11:59 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+20-02-2024 18:12:00 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+20-02-2024 18:12:01 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+20-02-2024 18:12:03 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+20-02-2024 18:12:03 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+20-02-2024 18:12:04 INFO  test_Cases.Admin_Page 25 : Searching User
+20-02-2024 18:12:05 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+20-02-2024 18:12:05 INFO  test_Cases.Admin_Page 35 : Getting User Status
+20-02-2024 18:12:05 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+20-02-2024 18:12:05 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+20-02-2024 18:13:08 INFO  common_Functions.Launch_WebPage 47 : Launching Browser
+20-02-2024 18:13:15 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+20-02-2024 18:13:16 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+20-02-2024 18:13:17 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+20-02-2024 18:13:18 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+20-02-2024 18:13:18 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+20-02-2024 18:13:20 INFO  test_Cases.Admin_Page 25 : Searching User
+20-02-2024 18:13:20 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+20-02-2024 18:13:20 INFO  test_Cases.Admin_Page 35 : Getting User Status
+20-02-2024 18:13:20 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+20-02-2024 18:13:20 INFO  common_Functions.Launch_WebPage 64 : Closing Browser
+20-02-2024 18:16:11 INFO  common_Functions.Launch_WebPage 48 : Launching Browser
+20-02-2024 18:16:18 INFO  test_Cases.Dashboard_Page 23 : Entering Credentials
+20-02-2024 18:16:19 INFO  test_Cases.Dashboard_Page 27 : Clicking on Submit Button
+20-02-2024 18:16:20 INFO  test_Cases.Dashboard_Page 33 : Checking Employee Leave Request
+20-02-2024 18:16:22 INFO  test_Cases.Dashboard_Page 43 : Verified Actual and Expected Result of Dashboard Page
+20-02-2024 18:16:22 INFO  test_Cases.Admin_Page 22 : Navigating to Admin Page
+20-02-2024 18:16:23 INFO  test_Cases.Admin_Page 25 : Searching User
+20-02-2024 18:16:24 INFO  test_Cases.Admin_Page 28 : Clicking on search button
+20-02-2024 18:16:24 INFO  test_Cases.Admin_Page 35 : Getting User Status
+20-02-2024 18:16:24 INFO  test_Cases.Admin_Page 47 : Verified Actual and Expected Results of Admin Page
+20-02-2024 18:16:24 INFO  common_Functions.Launch_WebPage 65 : Closing Browser
