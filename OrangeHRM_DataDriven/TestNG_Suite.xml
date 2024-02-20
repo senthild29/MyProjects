@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "OrangeHRM_DataDrivenFrmWrk">
+
+<test name = "Login Using Data Driven FrameWork">
+<classes>
+<class name = "testCase.Login_Website"></class>
+</classes>
+</test>
+
+<test name = "Logout WebPage">
+<classes>
+<class name = "testCase.Logout_Website">
+</class>
+</classes>
+</test>
+
+</suite>

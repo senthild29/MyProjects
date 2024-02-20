@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OrangeHRM_DataDrivenFrmWrk]">
+  <test thread-count="5" name="Login Using Data Driven FrameWork(failed)">
+    <classes>
+      <class name="testCase.Login_Website">
+        <methods>
+          <include name="Login_Page" invocation-numbers="0"/>
+          <include name="LoadSysetmProperties"/>
+          <include name="Close_Brow"/>
+        </methods>
+      </class> <!-- testCase.Login_Website -->
+    </classes>
+  </test> <!-- Login Using Data Driven FrameWork(failed) -->
+</suite> <!-- Failed suite [OrangeHRM_DataDrivenFrmWrk] -->

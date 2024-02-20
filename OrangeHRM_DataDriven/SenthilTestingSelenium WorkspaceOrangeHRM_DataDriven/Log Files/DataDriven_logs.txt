@@ -1,0 +1,25 @@
+20-02-2024 21:26:41 INFO  common_Features.Launch_BrowserPage 31 : Reading Properties File
+20-02-2024 21:26:41 INFO  common_Features.Launch_BrowserPage 36 : Getting System Properties
+20-02-2024 21:26:41 INFO  common_Features.Launch_BrowserPage 46 : Opening Browser
+20-02-2024 21:26:44 INFO  common_Features.Launch_BrowserPage 50 : Navigating to OrangeHRM Website
+20-02-2024 21:26:49 INFO  testCase.Login_Website 34 : Getting test data from excel sheet
+20-02-2024 21:26:49 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:26:49 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:26:49 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:26:49 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:26:49 INFO  testCase.Logout_Website 19 : Logging out from website
+20-02-2024 21:26:49 INFO  common_Features.Launch_BrowserPage 56 : Closing Browser
+20-02-2024 21:27:12 INFO  common_Features.Launch_BrowserPage 31 : Reading Properties File
+20-02-2024 21:27:12 INFO  common_Features.Launch_BrowserPage 36 : Getting System Properties
+20-02-2024 21:27:12 INFO  common_Features.Launch_BrowserPage 46 : Opening Browser
+20-02-2024 21:27:14 INFO  common_Features.Launch_BrowserPage 50 : Navigating to OrangeHRM Website
+20-02-2024 21:27:17 INFO  testCase.Login_Website 34 : Getting test data from excel sheet
+20-02-2024 21:27:17 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:27:18 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:27:18 INFO  testCase.Login_Website 63 : Clicking on submit button
+20-02-2024 21:27:20 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:27:21 INFO  testCase.Login_Website 63 : Clicking on submit button
+20-02-2024 21:27:23 INFO  testCase.Login_Website 59 : Login to Website using Username and Password
+20-02-2024 21:27:23 INFO  testCase.Login_Website 63 : Clicking on submit button
+20-02-2024 21:27:26 INFO  testCase.Logout_Website 19 : Logging out from website
+20-02-2024 21:27:27 INFO  common_Features.Launch_BrowserPage 56 : Closing Browser
